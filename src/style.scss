@@ -1,5 +1,9 @@
 @import "gerillass";
 
+body {
+  font-family: sans-serif;
+}
+
 h1 {
   @include text-gradient(right, orange red purple blue green);
 }
