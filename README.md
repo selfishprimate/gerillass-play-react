@@ -1,5 +1,6 @@
 # Gerillass Sandbox
-## Get started with Gerillass and Sass quickly with this sandbox repository!
+
+### Get started with Gerillass and Sass quickly with this sandbox repository!
 
 Gerillass is a lightweight Sass library that helps you build modern and beautiful web designs easily. 
 
