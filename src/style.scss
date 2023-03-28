@@ -3,3 +3,7 @@
 h1 {
   @include text-gradient(right, orange red purple blue green);
 }
+
+.main-container {
+  @include adaptive;
+}
