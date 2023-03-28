@@ -1,0 +1,5 @@
+@import "gerillass/scss/gerillass";
+
+h1 {
+  @include text-gradient(right, orange red purple blue green);
+}
