@@ -8,9 +8,8 @@ This repository provides a ready-to-use environment with Sass integration, allow
 
 The CodeSandbox implementation is a great way to quickly get started with using Gerillass and Sass for web design projects. With the built-in CodeSandbox environment, users can start modifying the their Sass files right away without the need for any additional setup. The real-time preview pane in CodeSandbox also allows users to see their changes as they're making them, which is a great way to experiment with different design ideas. 
 
-- [Gerillass](https://gerillass.com)
-- [Gerillass Documentation](https://gerillass.netlify.app/)
-- [Gerillass Github Repository](https://github.com/selfishprimate/gerillass)
-- [Gerillass on NPM](https://www.npmjs.com/package/gerillass)
-- [Twitter](https://twitter.com/gerillass)
-- [Medium](https://medium.com/gerillass)
+[Try Gerillass on Sandbox!](https://codesandbox.io/p/github/selfishprimate/gerillass-play-react/)
+
+### Other Resources:
+
+[Gerillass](https://gerillass.com), [Gerillass Documentation](https://gerillass.netlify.app/), [Gerillass Github Repository](https://github.com/selfishprimate/gerillass), [Gerillass on NPM](https://www.npmjs.com/package/gerillass), [Twitter](https://twitter.com/gerillass), [Medium](https://medium.com/gerillass)
